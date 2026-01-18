@@ -1,0 +1,7 @@
+{
+  "name": "Kenyan Coastal Ecosystem Dashboard",
+  "description": "A high-fidelity GIS monitoring platform for the Kenyan coastline, focusing on mangroves, coral reefs, seagrass, and shoreline dynamics using spectral indices like NDVI, MNDWI, and NDTI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
